@@ -1,1 +1,1 @@
-Learning GIT . New day new challenge.
+Learning GIT . 
